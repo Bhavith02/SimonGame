@@ -1,5 +1,6 @@
 # SimonGame
-Simple simon game built using html,css and javascript
+Simple simon game built using html,css and javascript. 
+This game can only be played in laptop/desktop.
 
 Steps to play this game:
 1. In this game there are 4 colored squares visible on the screen each associated with different sounds.
